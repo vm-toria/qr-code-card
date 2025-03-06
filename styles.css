@@ -28,6 +28,7 @@
 .main-block .qr-code-card__content-image {
   height: 100%;
   width: 100%;
+  border-radius: 10px;
 }
 .main-block .qr-code-card__title {
   padding-top: 24px;
