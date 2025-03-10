@@ -26,6 +26,11 @@
         padding-bottom: 40px;
         box-shadow: 0px 25px 25px 0px rgba(0, 0, 0, 0.05);
 
+        &__content-image-container {
+            width: calc(320px - 2 * 16px);
+            height: calc(320px - 2 * 16px);
+        }
+
         &__content-image {
             height: 100%;
             width: 100%;
